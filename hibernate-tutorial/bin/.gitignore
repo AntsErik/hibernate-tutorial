@@ -1,3 +1,4 @@
-/log4j.properties
 /com/
+/hibernate.cfg.xml
+/log4j.properties
 /practise/
